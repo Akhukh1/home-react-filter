@@ -1,0 +1,21 @@
+.tookbar {
+  display: flex;
+}
+
+.filter {
+  margin-left: 3px;
+  border: 1px solid gray;
+  padding: 3px 7px;
+}
+
+.selected {
+  margin-left: 3px;
+  border: 1px solid gray;
+  padding: 3px 7px;
+  background-color: gray;
+  color: white;
+}
+
+.project {
+  width: 33%;
+}
